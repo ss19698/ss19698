@@ -150,7 +150,6 @@ Always building something new!
 | 🧠 | **150+ LeetCode** problems solved |
 | 💼 | **Infosys Springboard** Virtual Internship (Nov 2025 – Jan 2026) |
 | 🏅 | **Top Performer** — 10th & 12th Grade |
-| 🎭 | **Cultural Head** — Organized Annual Day & Sports Day |
 
 </div>
 
