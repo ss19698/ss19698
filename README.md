@@ -147,7 +147,7 @@ Always building something new!
 |---|---|
 | 🥇 | **Top 5** student in my batch at ABV-IIITM Gwalior |
 | 📚 | **Semi-Finalist** in FlipkartGrid-7.0 |
-| 🧠 | **150+ LeetCode** problems solved |
+| 🧠 | **250+ LeetCode** problems solved |
 | 💼 | **Infosys Springboard** Virtual Internship (Nov 2025 – Jan 2026) |
 | 🏅 | **Top Performer** — 10th & 12th Grade |
 
