@@ -44,7 +44,7 @@ const shaily = {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-61DAFB?style=flat-square&logo=tailwind-css&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-dbe7f3?style=flat-square&logo=tailwind-css&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Backend & Databases**
@@ -57,11 +57,11 @@ const shaily = {
 
 **Tools & Platforms**
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-FFCA28?style=flat-square&logo=android-studio&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-247d7f?style=flat-square&logo=android-studio&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-FFCA28?style=flat-square&logo=render&logoColor=black)
+![Render](https://img.shields.io/badge/Render-b2d9c4?style=flat-square&logo=render&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ---
 
