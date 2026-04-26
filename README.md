@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaily%20Sahu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20B.Tech%20IT%20%2B%20MBA%20%40%20ABV-IIITM%20Gwalior&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaily%20Sahu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20B.Tech%20(IT)%20%2B%20MBA%20%40%20ABV-IIITM%20Gwalior&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Full-Stack+Web+Apps+%F0%9F%9A%80;React+%7C+Django+%7C+REST+APIs+%7C+Android;Top+5+in+Batch+%7C+8.94+CGPA+%E2%9C%A8;150%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Full-Stack+Web+Apps+%F0%9F%9A%80;React+%7C+Django+%7C+REST+APIs+%7C+Web;Top+5+in+Batch+%7C+8.94+CGPA+%E2%9C%A8;150%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:shailysahu357@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -19,10 +19,10 @@
 
 ```typescript
 const shaily = {
-  location: "Gwalior, India 🇮🇳",
-  education: "B.Tech IT + MBA @ ABV-IIITM Gwalior",
+  location: "Prayagraj, U.P, India",
+  education: "B.Tech(IT) + MBA @ ABV-IIITM Gwalior",
   cgpa: 8.94,
-  currentlyLearning: ["System Design", "DSA", "Cloud Deployment"],
+  currentlyLearning: ["System Design", "DSA", "AI/ML"],
   askMeAbout: ["React", "Django", "REST APIs", "Android Dev", "Full-Stack"],
   funFact: "Top 5 in batch & still finding bugs at 2AM 🌙",
 };
@@ -38,7 +38,7 @@ const shaily = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Shell Programming](https://img.shields.io/badge/shell-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
@@ -63,7 +63,8 @@ const shaily = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=vercel&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
@@ -102,20 +103,6 @@ Responsive fintech dashboard UI *(Infosys Springboard Internship)*
 <tr>
 <td width="50%">
 
-### 📅 My College Event App
-Android event management app using **Java** & **SQLite**
-- 📂 Stores 100+ event records with smart categorization
-- 🔄 Automated tagging: Upcoming / Current / Past
-- ✏️ Full CRUD with real-time UI updates
-- 🗓️ Smart filter — only shows events from last 30 days
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-
-</td>
-<td width="50%">
-
 ### 💰 WealthyWise
 Personal finance & wealth tracking application
 - 📈 Track income, expenses & investments
@@ -128,18 +115,6 @@ Personal finance & wealth tracking application
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🌿 GreenHeart
-Sustainability & eco-awareness platform
-- 🌱 Track your carbon footprint
-- ♻️ Eco-friendly habit suggestions
-- 🤝 Community challenges & leaderboard
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-
-</td>
 <td width="50%">
 
 ### 🔭 More Coming Soon...
@@ -175,7 +150,7 @@ Always building something new!
 | 🎯 | Achievement |
 |---|---|
 | 🥇 | **Top 5** student in current batch at ABV-IIITM Gwalior |
-| 📚 | **8.94 CGPA** — B.Tech IT + MBA |
+| 📚 | **Semi-Finalist** in FlipkartGrid-7.0 |
 | 🧠 | **150+ LeetCode** problems solved |
 | 💼 | **Infosys Springboard** Virtual Internship (Nov 2025 – Jan 2026) |
 | 🏅 | **Top Performer** — 10th & 12th Grade |
