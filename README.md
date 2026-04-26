@@ -21,10 +21,8 @@
 const shaily = {
   location: "Prayagraj, U.P, India",
   education: "B.Tech(IT) + MBA @ ABV-IIITM Gwalior",
-  cgpa: 8.94,
   currentlyLearning: ["System Design", "DSA", "AI/ML"],
   askMeAbout: ["React", "Django", "REST APIs", "Android Dev", "Full-Stack"],
-  funFact: "Top 5 in batch & still finding bugs at 2AM 🌙",
 };
 ```
 
