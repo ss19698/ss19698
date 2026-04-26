@@ -61,8 +61,8 @@ const shaily = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ---
 
 ## 🚀 Featured Projects
@@ -111,8 +111,6 @@ Personal finance & wealth tracking application
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🔭 More Coming Soon...
@@ -147,7 +145,7 @@ Always building something new!
 
 | 🎯 | Achievement |
 |---|---|
-| 🥇 | **Top 5** student in current batch at ABV-IIITM Gwalior |
+| 🥇 | **Top 5** student in my batch at ABV-IIITM Gwalior |
 | 📚 | **Semi-Finalist** in FlipkartGrid-7.0 |
 | 🧠 | **150+ LeetCode** problems solved |
 | 💼 | **Infosys Springboard** Virtual Internship (Nov 2025 – Jan 2026) |
