@@ -1,16 +1,215 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ss19698/ss19698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaily%20Sahu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20B.Tech%20IT%20%2B%20MBA%20%40%20ABV-IIITM%20Gwalior&descAlignY=55&descSize=16" />
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Full-Stack+Web+Apps+%F0%9F%9A%80;React+%7C+Django+%7C+REST+APIs+%7C+Android;Top+5+in+Batch+%7C+8.94+CGPA+%E2%9C%A8;150%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="mailto:shailysahu357@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shaily-sahu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ss19698"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Shailysahu19/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+```typescript
+const shaily = {
+  location: "Gwalior, India 🇮🇳",
+  education: "B.Tech IT + MBA @ ABV-IIITM Gwalior",
+  cgpa: 8.94,
+  currentlyLearning: ["System Design", "DSA", "Cloud Deployment"],
+  askMeAbout: ["React", "Django", "REST APIs", "Android Dev", "Full-Stack"],
+  funFact: "Top 5 in batch & still finding bugs at 2AM 🌙",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & Databases**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Platforms**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 DigiMart — E-Commerce Platform
+Full-stack e-commerce app with **React.js** + **Django REST Framework**
+- 🔐 JWT auth + role-based access (Admin / Vendor / Customer)
+- 💳 Razorpay payment gateway integration
+- 📄 Automated invoice PDF generation
+- 📊 Interactive dashboards with charts & analytics
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
+
+</td>
+<td width="50%">
+
+### 🏦 Tivra — Digital Banking Dashboard
+Responsive fintech dashboard UI *(Infosys Springboard Internship)*
+- ⚡ Built with **React.js**, **Vite** & **Tailwind CSS**
+- 📡 REST API integration via **Axios** for real-time data
+- 🧩 10+ reusable components for seamless UX
+- 🌐 Deployed on **Vercel** — [Live Demo →](https://tivra-banking.vercel.app/)
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📅 My College Event App
+Android event management app using **Java** & **SQLite**
+- 📂 Stores 100+ event records with smart categorization
+- 🔄 Automated tagging: Upcoming / Current / Past
+- ✏️ Full CRUD with real-time UI updates
+- 🗓️ Smart filter — only shows events from last 30 days
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
+
+</td>
+<td width="50%">
+
+### 💰 WealthyWise
+Personal finance & wealth tracking application
+- 📈 Track income, expenses & investments
+- 📊 Visual analytics for smarter money decisions
+- 🎯 Goal-based saving planner
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌿 GreenHeart
+Sustainability & eco-awareness platform
+- 🌱 Track your carbon footprint
+- ♻️ Eco-friendly habit suggestions
+- 🤝 Community challenges & leaderboard
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+
+</td>
+<td width="50%">
+
+### 🔭 More Coming Soon...
+Always building something new!
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+
+⭐ Star my repos if you find them useful!
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ss19698&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss19698&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ss19698&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🎯 | Achievement |
+|---|---|
+| 🥇 | **Top 5** student in current batch at ABV-IIITM Gwalior |
+| 📚 | **8.94 CGPA** — B.Tech IT + MBA |
+| 🧠 | **150+ LeetCode** problems solved |
+| 💼 | **Infosys Springboard** Virtual Internship (Nov 2025 – Jan 2026) |
+| 🏅 | **Top Performer** — 10th & 12th Grade |
+| 🎭 | **Cultural Head** — Organized Annual Day & Sports Day |
+
+</div>
+
+---
+
+## 📈 LeetCode Progress
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shailysahu19?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Shailysahu19/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Cool Together!
+
+<a href="mailto:shailysahu357@gmail.com">
+  <img src="https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shaily-sahu">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ss19698&color=58A6FF&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
