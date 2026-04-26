@@ -20,7 +20,7 @@
 ```typescript
 const shaily = {
   location: "Prayagraj, U.P, India",
-  education: "B.Tech(IT) + MBA @ ABV-IIITM Gwalior",
+  education: " Third year in B.Tech(IT) + MBA @ ABV-IIITM Gwalior",
   currentlyLearning: ["System Design", "DSA", "AI/ML"],
   askMeAbout: ["React", "Django", "REST APIs", "Android Dev", "Full-Stack"],
 };
@@ -57,7 +57,7 @@ const shaily = {
 
 **Tools & Platforms**
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -123,19 +123,6 @@ Always building something new!
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ss19698&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss19698&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ss19698&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
