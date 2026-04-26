@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaily%20Sahu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20B.Tech%20(IT)%20%2B%20MBA%20%40%20ABV-IIITM%20Gwalior&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Full-Stack+Web+Apps+%F0%9F%9A%80;React+%7C+Django+%7C+REST+APIs+%7C+Web;Top+5+in+Batch+%7C+8.94+CGPA+%E2%9C%A8;150%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Full-Stack+Web+Apps+%F0%9F%9A%80;React+%7C+Django+%7C+REST+APIs+%7C+Web;150%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:shailysahu357@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
